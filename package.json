@@ -1,0 +1,14 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "Currency Converter to understand the logics behind async/await, Destructuring and some Error Handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghunandhan VR",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
